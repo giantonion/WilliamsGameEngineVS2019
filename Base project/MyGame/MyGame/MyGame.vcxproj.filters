@@ -16,7 +16,7 @@
     <ClCompile Include="MyGame.cpp" />
     <ClCompile Include="GameScene.cpp" />
     <ClCompile Include="ship.cpp" />
-    <ClCompile Include="lazer.cpp" />
+    <ClCompile Include="laser.cpp" />
     <ClCompile Include="meteor.cpp" />
     <ClCompile Include="meteorspawner.cpp" />
   </ItemGroup>
@@ -38,7 +38,6 @@
     </ClInclude>
     <ClInclude Include="GameScene.h" />
     <ClInclude Include="ship.h" />
-    <ClInclude Include="lazer.h" />
     <ClInclude Include="laser.h" />
     <ClInclude Include="Meteor.h" />
     <ClInclude Include="MeteorSpawner.h" />
