@@ -19,6 +19,7 @@
     <ClCompile Include="laser.cpp" />
     <ClCompile Include="meteor.cpp" />
     <ClCompile Include="meteorspawner.cpp" />
+    <ClCompile Include="Explosion.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Engine\AnimatedSprite.h">
@@ -59,5 +60,45 @@
     <Image Include="Resources\ship.png">
       <Filter>Resources</Filter>
     </Image>
+    <Image Include="Resources\background.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Resources\explosion01.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Resources\explosion02.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Resources\explosion03.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Resources\explosion04.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Resources\explosion05.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Resources\explosion06.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Resources\explosion07.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Resources\explosion08.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Resources\explosion09.png">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Resources\boom.wav">
+      <Filter>Resources</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Resources\Courneuf-Regular.ttf">
+      <Filter>Resources</Filter>
+    </Font>
   </ItemGroup>
 </Project>
