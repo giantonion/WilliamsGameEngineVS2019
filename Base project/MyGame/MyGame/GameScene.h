@@ -4,11 +4,10 @@
 
 class GameScene : public Scene {
  public:
-  // Creates our Scene.
   GameScene();
   int getScore();
-  void increasesScore();
-  private;
+  void increaseScore();
+private:
   int score_ = 0;
 };
 
